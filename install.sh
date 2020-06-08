@@ -76,7 +76,6 @@ apt install -y python3-appdirs python3-distlib python3-filelock
 echo -e "${RED}[*] Installing X-hydra via Apt${NC}"
 apt-get install -y x-hydra
 
-
 # Nmap
 echo -e "${RED}[*] Installing Nmap${NC}"
 apt-get install -y nmap
